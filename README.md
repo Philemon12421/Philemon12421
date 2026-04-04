@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=PHILEMON%96&fontSize=60&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20CYBERSECURITY%20ANALYST&descAlignY=55&descSize=20">
+<source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=PHILEMON%2&fontSize=60&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20CYBERSECURITY%20ANALYST&descAlignY=55&descSize=20">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=PHILEMON%20OSEI%20KUSI&fontSize=60&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20CYBERSECURITY%20ANALYST&descAlignY=55&descSize=20" width="100%" alt="Software Engineer and Cybersecurity Analyst Professional Header" />
 </picture>
 </p>
