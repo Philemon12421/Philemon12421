@@ -40,7 +40,7 @@ I am a **Computer Science Student at KNUST** and a multi-disciplinary creator. M
 
 </td>
 <td width="40%" align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVQj6qjfai6dLPqtYk3s8ASGYl4HZVc5Z1w&s" width="200" style="border-radius:20px; border: 2px solid #33ccff"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVQj6qjfai6dLPqtYk3s8ASGYl4HZVc5Z1w&s" width="280" style="border-radius:25px; border: 2px solid #33ccff"/>
 </td>
 </tr>
 </table>
@@ -53,7 +53,7 @@ I am a **Computer Science Student at KNUST** and a multi-disciplinary creator. M
 | :--- | :--- | :--- |
 | 🌐 React / JavaScript | 🛡️ Kali Linux / Metasploit | 🎨 UI/UX (Figma/Adobe) |
 | ⚙️ Node.js / Django | 🔍 Wireshark / Nmap | 🎬 Premiere Pro / CapCut |
-| ☕ Java / Python | 🛠️ Forensic Analysis | 🧊 Blender (3D) |
+| ☕ Java / Python | 🛠️ Forensic Analysis | 🧊 Blender (3D) / Photoshop |
 
 ---
 
@@ -66,10 +66,6 @@ I am a **Computer Science Student at KNUST** and a multi-disciplinary creator. M
 
 ### 📊 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Philemon12421&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philemon12421&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Philemon12421&theme=tokyonight&hide_border=true&background=0D1117" width="100%"/>
@@ -77,13 +73,15 @@ I am a **Computer Science Student at KNUST** and a multi-disciplinary creator. M
 
 ---
 
-### 🐍 Contribution Journey
+### 🎮 The Developer Arcade
+*GitHub prevents live JavaScript, but you can trigger these system actions:*
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Philemon12421/Philemon12421/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Philemon12421/Philemon12421/output/github-contribution-grid-snake-light.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Philemon12421/Philemon12421/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/Philemon12421/Philemon12421/issues/new?title=Challenge:+Solve+the+Logic+Puzzle">
+    <img src="https://img.shields.io/badge/PLAY-LOGIC_PUZZLE-FFFFFF?style=for-the-badge&logo=game-and-watch" />
+  </a>
+  <a href="https://lichess.org/editor">
+    <img src="https://img.shields.io/badge/PLAY-CHESS_BATTLE-white?style=for-the-badge&logo=lichess&logoColor=black" />
+  </a>
 </p>
 
 ---
