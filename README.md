@@ -30,14 +30,14 @@ const philemon = {
   university: "KNUST — Computer Science",
   roles: [
     "Full-Stack Engineer",
-    "Cybersecurity Blue Team Lead",
-    "Digital Forensics Expert",
+    "Grey hat Cybersecurity",
+    "Network Engineer",
     "Creative Director @ Ocean Graphix",
   ],
   currentFocus: [
     "Java Mastery & Backend Security",
     "Forensic Analysis & Blue Team Ops",
-    "Building Totti — 100+ free web tools",
+    "Building fascinating tools ngl",
   ],
   funFact: "I treat code like art 🎨",
   motto:  "Build it. Harden it. Ship it.",
