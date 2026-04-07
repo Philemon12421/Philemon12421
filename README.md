@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Philemon12421/Philemon12421/main/Gemini_Generated_Image_j83bj1j83bj1j83b.png" alt="Philemon Osei Kusi - Software Engineer & Cybersecurity Analyst" width="100%">
-</p>
+![Banner](./banner.png)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=FULL-STACK+ENGINEER;CYBERSECURITY+BLUE+TEAM+LEAD;DIGITAL+FORENSICS+EXPERT;SYSTEM+ARCHITECT&center=true&width=900&height=50&color=FFFFFF&size=25&font=Fira+Code">
 </p>
