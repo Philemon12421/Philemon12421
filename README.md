@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Philemon%20Osei%20Kusi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philemon-osei-kusi-5970a6343)
 [![YouTube](https://img.shields.io/badge/YouTube-@philemon4u1-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@philemon4u1)
