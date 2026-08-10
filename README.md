@@ -1,39 +1,33 @@
-![Banner](./banner.png)
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I'm a Software Engineer with 2+ years of hands-on experience building digital products across software engineering, cybersecurity, artificial intelligence, automation, cloud infrastructure, web development, and mobile development. I enjoy taking ideas from concept to reality by designing, building, testing, securing, deploying, and continuously improving software that solves real-world problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Philemon%20Osei%20Kusi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philemon-osei-kusi-5970a6343)
-[![YouTube](https://img.shields.io/badge/YouTube-@philemon4u1-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@philemon4u1)
-[![Instagram](https://img.shields.io/badge/Instagram-@philemon4u1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/philemon4u1)
-[![Twitter/X](https://img.shields.io/badge/Twitter-@philemonku86576-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/philemonku86576)
-[![GitHub](https://img.shields.io/badge/GitHub-Philemon12421-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Philemon12421)
-[![Email](https://img.shields.io/badge/Email-philemonkusi292@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philemonkusi292@gmail.com)
+My approach to software engineering goes beyond simply writing code. I care about understanding the problem first, designing the right architecture, creating intuitive user experiences, building reliable backend systems, securing applications, automating repetitive processes, deploying products efficiently, and making sure what I build can be maintained and scaled as it grows. I enjoy working across different areas of technology because it allows me to understand how complete digital products work rather than focusing on only one part of the development process.
 
-</div>
+* I build AI-powered applications, intelligent automation systems, LLM-powered assistants, conversational applications, recommendation systems, AI developer tools, data-processing pipelines, and productivity solutions using modern AI technologies and APIs.
+* I build full-stack web applications, SaaS platforms, APIs, backend systems, databases, microservices, dashboards, e-commerce platforms, and business platforms designed around real user and business needs.
+* I develop cross-platform mobile applications and enjoy turning ideas into functional mobile experiences with thoughtful interfaces, reliable functionality, and scalable architectures.
+* I work with cloud infrastructure, deployment systems, CI/CD pipelines, testing, monitoring, optimization, and automation to make applications more reliable and easier to maintain.
+* I have a strong interest in cybersecurity and security engineering, including web and application security, security testing, OSINT and reconnaissance, security automation, developer security tools, secure application development, and security-focused platforms.
+* I also build Chrome extensions, browser utilities, developer tools, automation tools, and other software designed to improve productivity and simplify complex workflows.
+* I have experience working with UI/UX and product design, allowing me to approach software not only from an engineering perspective but also from the perspective of usability, accessibility, visual communication, and user experience.
+* I explore emerging technologies such as artificial intelligence, machine learning integrations, blockchain, decentralized applications, cloud technologies, automation, and modern software architectures to continuously expand my engineering capabilities.
 
-<br/>
+Some of the products and projects I have built include [Totti](https://tottti.vercel.app), a platform containing 100+ free online tools; [FindMe](https://findmei.vercel.app), a cybersecurity tools and utilities platform; [TyperCA](https://typerca.vercel.app), a typing and productivity platform; [DeepLearnU](https://deeplearnu.vercel.app), a learning and AI platform; [iSeek](https://iseek.vercel.app), a job search and information platform; [DTC Official](https://dtc-official.vercel.app), the official platform for Drenchack Tech Company; [LearnTheBible](https://learnthebible.vercel.app), a Bible learning platform; [Landy](https://landy-gamma.vercel.app), a modern web project; and [Acarpo](https://acarpo.vercel.app), a cybersecurity tools and learning roadmap platform.
 
-<div align="center">
+I've also built several mobile and productivity applications, including [The Bible App](https://github.com/Philemon12421/The-bible-App), [Libre Update](https://github.com/Philemon12421/Libre-Update), and [Task Manager](https://github.com/Philemon12421/Task-Manager). One of my ongoing projects is Pathy, a location and route-based mobile application that combines maps, community features, incident reporting, AI assistance, and other tools into a single platform.
 
-> [!TIP]
-> 💼 **Open to:** Full-Stack roles · Security engagements · Freelance projects · Collaborations
->
-> 📧 **Email:** philemonkusi292@gmail.com
->
-> 🌐 **Live Project:** [tottti.vercel.app](https://tottti.vercel.app) *(Totti — 100+ free tools)*
+I also enjoy building browser-based tools and Chrome extensions that solve practical problems. Some of my projects include [Gitty Chrome Extension](https://github.com/Philemon12421/Gitty-Chrome-Extension), which helps with README generation and code explanation; [Save Extension](https://github.com/Philemon12421/save-extension), a browser utility for saving supported online media; and [UI Clone Extension](https://github.com/Philemon12421/UI-Clone-extension), a tool focused on recreating website interfaces and components.
 
-</div>
+At the moment, I'm focused on growing deeper in software engineering, cybersecurity, artificial intelligence, cloud infrastructure, and automation while building products that combine these areas. I'm particularly interested in AI agents, LLM applications, intelligent automation, cybersecurity tools, secure software development, scalable cloud architectures, developer tools, Chrome extensions, mobile applications, SaaS platforms, and business automation systems.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I believe one of my strongest qualities as an engineer is my willingness to learn, experiment, and build. I don't limit myself to one technology or one area of development. When I encounter a problem, I focus on understanding it, finding the right technology or approach, building a solution, testing it, and improving it. This mindset has allowed me to continuously expand from software development into cybersecurity, AI, automation, cloud infrastructure, and product development.
 
-<div align="center">
+I'm open to software engineering opportunities, full-stack development projects, AI and automation projects, cybersecurity projects, cloud and infrastructure work, freelance development, startup collaborations, technical partnerships, and open-source projects. I'm especially interested in opportunities where I can contribute technically, learn from other engineers, and help turn ambitious ideas into useful, secure, and scalable products.
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+If you have an idea that needs to be designed, engineered, automated, secured, deployed, and scaled, I'm interested in building something meaningful.
 
-<br/><br/>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480px"/>
-
-<br/><br/>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Philemon%20Osei%20Kusi-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/philemon-osei-kusi-5970a6343)
+[![YouTube](https://img.shields.io/badge/YouTube-@philemon4u1-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@philemon4u1)
+[![Instagram](https://img.shields.io/badge/Instagram-@philemon4u1-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/philemon4u1)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@philemonku86576-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/philemonku86576)
+[![GitHub](https://img.shields.io/badge/GitHub-Philemon12421-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Philemon12421)
+[![Email](https://img.shields.io/badge/Email-philemonkusi292@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:philemonkusi292@gmail.com)
