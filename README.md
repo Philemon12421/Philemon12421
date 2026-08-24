@@ -1,4 +1,4 @@
-## Hi 👋 l am  Philemon Osei Kusi aka 🗿 OCEAN ,
+## Hi 👋 l am  Philemon Osei Kusi,
 a Software Engineer with 2+ years of hands-on experience building digital products across software engineering, cybersecurity, artificial intelligence, automation, cloud infrastructure, web development, and mobile development. I enjoy taking ideas from concept to reality by designing, building, testing, securing, deploying, and continuously improving software that solves real-world problems.
 
 My approach to software engineering goes beyond simply writing code. I care about understanding the problem first, designing the right architecture, creating intuitive user experiences, building reliable backend systems, securing applications, automating repetitive processes, deploying products efficiently, and making sure what I build can be maintained and scaled as it grows. I enjoy working across different areas of technology because it allows me to understand how complete digital products work rather than focusing on only one part of the development process.
